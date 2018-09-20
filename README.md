@@ -1,7 +1,6 @@
 # Registro Servidores Públicos
 
-Registro de los servidores públicos de la Administración Pública Federal que interviene en procedimientos de contrataciones públicas, el otorgamiento de licencias, etc.
-
+Registro de Servidores Públicos de la Administración Pública Federal que intervienen en procedimientos de contrataciones públicas, el otorgamiento de licencias, permisos, concesiones y autorizaciones, así como en la enajenación de bienes muebles de la administración pública federal y en la asignación y emisión de dictámenes en materia de avalúos y justipreciación de rentas (RENIRESP).
 
 # ¿Dónde están los datos?
 https://datos.gob.mx/busca/dataset/registro-de-servidores-publicos-que-intervienen-en-contrataciones-publicas
